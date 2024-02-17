@@ -17,9 +17,9 @@
   }
   ],
   "require" : {
-    "php" : ">=8.1",
-    "thecodingmachine/graphqlite" : "^6.0",
-    "symfony/validator": "^6" ,
+    "php" : "^8.3",
+    "thecodingmachine/graphqlite" : "dev-master",
+    "symfony/validator": "^7.0" ,
     "doctrine/annotations": "^1.13 || ^2.0.1"
   },
   "require-dev": {
